@@ -42,6 +42,9 @@ Key analyses:
 - **64% of churners** aged 37–54 → opportunity for midlife financial planning products  
 - **31% of churners** had 3–5 years tenure → post-loyalty fatigue  
 
+<img width="700" height="500" alt="python" src="https://github.com/user-attachments/assets/699c560b-6a1c-4932-a647-eade880c32ab" />
+
+
 ---
 
 ### 2. Predictive Modelling
@@ -59,7 +62,10 @@ Key analyses:
 - ↓ **Activity** → Higher churn  
 - **Female gender** → Slightly higher churn  
 - **Geography: Germany** → Higher churn risk  
-- ↓ **Tenure** → Higher churn  
+- ↓ **Tenure** → Higher churn
+
+
+<img width="800" height="600" alt="shap" src="https://github.com/user-attachments/assets/d2424540-ba7c-41f5-aaa4-f00c8a42befb" />
 
 ---
 
@@ -89,6 +95,9 @@ Developed an **interactive retention dashboard** for real-time monitoring and RO
 - **DAX Measures:** Financial KPI calculations  
 
 🎯 Enables stakeholders to **track churn risk** and **measure retention ROI** dynamically.
+
+<img width="1682" height="842" alt="dashboard" src="https://github.com/user-attachments/assets/22de7585-3d94-45d2-9236-69d3cc37dfaf" />
+
 
 ---
 
